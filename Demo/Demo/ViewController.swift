@@ -14,6 +14,16 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         // 我是yuan
+        //suimasuima
+        //suima
+        //suimasuima
+        //suima
+        //suimasuima
+        //suima
+        //suimasuima
+        //suima
+        //suimasuima
+        //suima
     }
 
     override func didReceiveMemoryWarning() {
